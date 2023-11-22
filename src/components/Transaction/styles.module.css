@@ -1,0 +1,23 @@
+
+.transactionHistory {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .tableHeader {
+    font-weight: bold;
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .transaction {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .tableCell {
+    padding: 10px;
+  }
+  
+  

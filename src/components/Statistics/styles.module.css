@@ -1,0 +1,30 @@
+
+.statistics {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .stat-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .item {
+    margin-bottom: 10px;
+  }
+  
+  .label {
+    margin-right: 10px;
+  }
+  
+  .percentage {
+    font-weight: bold;
+  }
+  
